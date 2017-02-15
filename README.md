@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# YouTube Built with React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## Introduction
 
-###Getting Started###
+This is a single-page application built using React and the YouTube API which mimics YouTube.
+It is the first project from the Udemy [Modern React with Redux](https://www.udemy.com/react-redux/) course taught by Stephen Grider.
 
-There are two methods for getting started with this repo.
+## Instructions
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+1. Clone or download the repo.
+2. Open index.html in your browser to view the app.
+3. Or, you can set up a local server following [these](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Set_up_a_basic_working_environment) instructions.
+4. Or view the app [here]().
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Resources
 
-```
-	> npm install
-	> npm start
-```
+* Udemy [Modern React with Redux](https://www.udemy.com/react-redux/)
